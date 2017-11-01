@@ -37,3 +37,52 @@
 .jumbotron h1 {
 	font-size: 34px;
 }
+
+.bluebox {
+	background-color: blue;
+	overflow: hidden;
+	height: 230px;
+	color: white;
+	padding: 0 10px;
+	font-size: 120%;
+}
+
+.bluebox a.readmore {
+	position: absolute;
+	bottom: 15px;
+	left: 30px;
+	background: #2b8cbc;
+	padding: 10px 15px;
+	color: #ffffff;
+}
+
+.bluebox a.readmore:hover {
+	background: #20749d;
+}
+
+
+
+.redbox {
+	background-color: red;
+	overflow: hidden;
+	height: 230px;
+	color: white;
+	padding: 0 10px;
+	font-size: 120%;
+}
+
+.redbox a.readmore {
+	position: absolute;
+	bottom: 15px;
+	left: 30px;
+	background: #bf1e26;
+	padding: 10px 15px;
+	color: #ffffff;
+}
+
+.redbox a.readmore:hover {
+	background: #86161b;
+}
+
+
+
