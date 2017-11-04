@@ -95,5 +95,27 @@
 	background: #86161b;
 }
 
+.media-body {
+	font-size: 120%;
+}
 
+.panel-default {
+	background: #2e98cc !important;
+	color: white;
+}
+
+.list-group-item.active, 
+.list-group-item.active:hover, 
+.list-group-item.active:focus {
+	background: #ca2129;
+	border: #ca2129;
+}
+
+.grey-list .list-group-item.active, 
+.grey-list .list-group-item.active:hover, 
+.grey-list .list-group-item.active:focus {
+	background: #f4f4f4;
+	border: #cccccc;
+	color: #666666
+}
 
