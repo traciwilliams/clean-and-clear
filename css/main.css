@@ -1,3 +1,7 @@
+body {
+	margin-top: 20px;
+}
+
 .pad-top-10 {
 	padding-top: 10px;
 }
@@ -8,6 +12,9 @@
 	padding-top: 30px;
 }
 
+.well {
+	background: white !important;
+}
 
 .top-bar {
 	height: 5px;
@@ -21,6 +28,39 @@
 
 .navbar li:hover {
 	background: #e7e7e7;
+}
+
+
+li.login a {
+	background: #ca2129;
+	margin-bottom: -10px;
+	color: white !important;
+	padding-right: 22px;
+	padding-left: 22px;
+}
+
+li.login a:hover, 
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	background: #cccccc;
+}
+
+li.register a {
+	background: #2f98cc;
+	margin-bottom: -10px;
+	color: white !important;
+}
+
+li.register a:hover, 
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+	background: #cccccc;
+}
+
+
+
+
+
+li.register a {
+	
 }
 
 .jumbotron {
@@ -119,3 +159,9 @@
 	color: #666666
 }
 
+footer {
+	text-align: center;
+	padding: 20px 0;
+	font-weight: bold;
+	background: #f4f4f4;
+}
