@@ -1,4 +1,4 @@
-# Project Title
+# Clean and Clear
 
 A project using Bootstrap 3.
 
