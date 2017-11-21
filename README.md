@@ -10,4 +10,4 @@ Bootstrap 3
 
 
 
-![Alt text](readme-screenshots.jpg?raw=true "Clean and Clear")
+![Alt text](images/readme-screenshots.jpg?raw=true "Clean and Clear")
